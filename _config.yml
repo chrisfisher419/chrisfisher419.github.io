@@ -1,5 +1,4 @@
 Name: Christopher Fisher
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-permalink: /about/
-permalink: /cv/
+
