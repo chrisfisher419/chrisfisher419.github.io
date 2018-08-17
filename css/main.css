@@ -36,6 +36,10 @@ h1
 
 }
 {
+h2
+color: gray;
+}
+{
 h3
     color: blue;
 }
@@ -43,7 +47,7 @@ p
 {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: blue;
+    color: gray;
 }
 footer /* size an space */
 {
