@@ -2,7 +2,7 @@ body /* body */
 {
     margin: 60px auto;
     width: 70%;
-    background: url(https://raw.githubusercontent.com/bitdegree/banners/7a632646/learn/space.jpeg);
+    background: black url(https://raw.githubusercontent.com/bitdegree/banners/7a632646/learn/space.jpeg);
       background-repeat: no-repeat;
   background-size: cover;
     color: yellow;
