@@ -5,6 +5,7 @@ body /* body */
     background: url(https://ssagga.files.wordpress.com/2012/10/3d-space_bfadfb1b.jpg);
       background-repeat: no-repeat;
   background-size: cover;
+    color: yellow;
 }
 nav ul, footer ul /* navigation and footer text font */
 {
