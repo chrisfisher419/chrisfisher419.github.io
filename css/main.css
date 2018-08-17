@@ -52,11 +52,11 @@ ul.posts
 { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
-    color: black;
+    color: gray;
 }
 
 ul.posts li 
 {
     list-style: none;
-    color: black;
+    color: gray;
 }
