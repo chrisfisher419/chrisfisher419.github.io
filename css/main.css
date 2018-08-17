@@ -5,6 +5,7 @@ body /* body */
     background: black url(https://raw.githubusercontent.com/bitdegree/banners/7a632646/learn/space.jpeg);
       background-repeat: no-repeat;
   background-size: cover;
+    background-attachment: fixed;
     color: yellow;
 }
 nav ul, footer ul /* navigation and footer text font */
