@@ -1,6 +1,71 @@
-body { background-color: blue;
+body
+{
+background-color: green;
+margin: 60px auto;
+width: 70%;
 }
-h1 {font-famly: 'Verdana', 'Helvetica'
+nav ul, footer ul
+{
+    font-family:
+    padding: 
+    list-style: 
+    font-weight: 
+    color: 
 }
-p{font-famly: 'Verdana', 'Helvetica'
+nav ul li, footer ul li 
+{
+    display: 
+    margin-right: 
+}
+a
+{
+    text-decoration:
+    color:
+}
+a:hover
+{
+text-decoration:
+}
+h1 
+{
+    font-size: 
+    font-family:
+    color: 
+}
+h2 
+{
+  
+}
+h3
+{
+  
+}
+h4 
+{
+  
+}
+p 
+{
+    font-size: 
+    line-height: 
+    color: 
+}
+footer 
+{
+    border-top: 
+    font-size: 
+    color: 
+}
+
+ul.posts 
+{ 
+    margin: 
+    font-size: 
+    color: 
+}
+
+ul.posts li 
+{
+    list-style:
+    color:
 }
