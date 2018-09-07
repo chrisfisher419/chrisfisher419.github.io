@@ -9,8 +9,6 @@ html {
 body {
      background: black url(https://raw.githubusercontent.com/bitdegree/banners/7a632646/learn/space.jpeg);
     background-repeat: no-repeat;
-  background-size: cover;
-    background-attachment: fixed;
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
     color: #545454;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
