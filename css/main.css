@@ -5,6 +5,7 @@ body /* body */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100%; 
     margin: 60px auto;
     width: 70%;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
