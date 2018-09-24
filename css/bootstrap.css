@@ -69,6 +69,7 @@ body {
   list-style: none;
   list-style-position: inside;
   background-color: #fff;
+  background-image: url("https://www.webdesignerdepot.com/cdn-origin/uploads/2015/07/animated-low-poly-svg-background-generator.jpg")
 }
 
 [tabindex="-1"]:focus {
