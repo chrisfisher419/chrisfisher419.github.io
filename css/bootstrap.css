@@ -64,12 +64,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #00B374;
-  text-align: center;
-  list-style: none;
-  list-style-position: inside;
+  color: #212529;
+  text-align: left;
   background-color: #fff;
-  background-image: url("https://www.webdesignerdepot.com/cdn-origin/uploads/2015/07/animated-low-poly-svg-background-generator.jpg")
 }
 
 [tabindex="-1"]:focus {
@@ -112,25 +109,13 @@ ul,
 dl {
   margin-top: 0;
   margin-bottom: 1rem;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-size: 1rem;
-  font-weight: 400;
-  text-align: center;
-  list-style: none;
-  list-style-position: inside;
 }
 
 ol ol,
 ul ul,
 ol ul,
 ul ol {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-size: 1rem;
-  font-weight: 400;
   margin-bottom: 0;
-    text-align: center;
-  list-style: none;
-  list-style-position: inside;
 }
 
 dt {
@@ -176,7 +161,7 @@ sup {
 }
 
 a {
-  color: red;
+  color: #007bff;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
